@@ -10,12 +10,13 @@ html {
 }
 
 h1 {
-	text-align: center;
+	text-align: right;
 	margin: 10px;
 }
 
 .contenedor {
-	background: rgb(183, 183, 183);
+	background: blue;
+	border: 2px solid black;
 	height: 300px;
 	margin: 20px;
 	padding: 30px;
